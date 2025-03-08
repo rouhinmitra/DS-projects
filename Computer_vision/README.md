@@ -1,1 +1,1 @@
-# Experimentation with object detection
+Experimentation with object detection
